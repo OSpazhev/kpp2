@@ -1,0 +1,27 @@
+{
+  "name": "spazhev_project",
+  "version": "1.0.0",
+  "description": "lab for kpp",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "help me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpazhevOM/kpp2.git"
+  },
+  "keywords": [
+    "kpp2"
+  ],
+  "author": "Spazhev Oleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpazhevOM/kpp2/issues"
+  },
+  "homepage": "https://github.com/SpazhevOM/kpp2#readme"
+}
